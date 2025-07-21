@@ -1,8 +1,7 @@
-/*
+.read-mode-icon {
+    margin-right: 4px;
+}
 
-This CSS file will be included with your plugin, and
-available in the app when your plugin is enabled.
-
-If your plugin does not need CSS, delete this file.
-
-*/
+.setting-item .setting-item-control > .dropdown {
+    margin-right: 8px;
+}
