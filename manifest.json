@@ -1,0 +1,10 @@
+{
+  "id": "obsidian-selective-read-mode",
+  "name": "Selective Read Mode",
+  "version": "0.0.1",
+  "minAppVersion": "0.0.1",
+  "description": "Automatically opens selected notes in read (preview) mode while others default to edit mode.",
+  "author": "YourName",
+  "authorUrl": "https://github.com/VladPetriv",
+  "isDesktopOnly": false
+}

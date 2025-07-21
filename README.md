@@ -1,1 +1,1 @@
-### obsidian-selective-read-mode
+# obsidian-selective-read-mode
